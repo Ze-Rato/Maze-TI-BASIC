@@ -12,4 +12,5 @@ Simple Maze Generator written in TI-BASIC
 | ------------- | ------------------- | -------- |
 | 1  | 06/07/2024 | -Launch  |
 
+Launching playable version tomorow hopefully
 
