@@ -6,7 +6,7 @@ You can use TI Connect to send these program files to your graphic calculator. Y
 
 ## Some Pictures
 
-![Vid](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/9f540d75-05f9-48e4-86f6-0676b8d80677)
+![Video Example](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/9f540d75-05f9-48e4-86f6-0676b8d80677)
 (Note: The final version has no logs to display)
 
 ## Upadtes and Patches
