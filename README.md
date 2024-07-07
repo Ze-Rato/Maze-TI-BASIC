@@ -11,6 +11,6 @@ Simple Maze Generator written in TI-BASIC
 |    Version    | Date of Realease | Changes Description |
 | ------------- | ------------------- | -------- |
 | 1  | 06/07/2024 | -Launch  |
+| 1.1  | 07/07/2024 | -Added Playability -Fixed the display to be a square instead of a rectangle -Optimized some code such as the tigger for the end of generation |
 
-Launching playable version tomorow hopefully
 
