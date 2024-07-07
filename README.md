@@ -8,7 +8,7 @@ Use the arrow keys to move.
 NOTE: The max width size as of now is 20.
 
 ## Some Pictures
-![9x9 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/375ff258-84c0-4501-8b47-c8a3d4fd6da2)
+![8x8 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/375ff258-84c0-4501-8b47-c8a3d4fd6da2)
 
 ![20x20 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/58544ee1-38f5-47e5-97e9-10c70e189ce2)
 
