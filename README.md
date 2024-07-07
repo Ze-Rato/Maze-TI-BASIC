@@ -5,7 +5,9 @@ Simple Maze Generator written in TI-BASIC.
 Pretty self explanatory, you are a red dot on a maze and your goal is to get to the green mark on it. 
 Use the arrow keys to move.
 
-NOTE: The max width size as of now is 20.
+NOTES: 
+* The max width size is 20.
+* The generation of a 20x20 maze may take up to 2 minutes.
 
 ## Some Pictures
 ![8x8 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/375ff258-84c0-4501-8b47-c8a3d4fd6da2)
