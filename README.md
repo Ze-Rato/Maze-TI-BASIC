@@ -2,9 +2,8 @@
 Simple Maze Generator written in TI-BASIC
 
 ## Some Pictures
+![20x20 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/58544ee1-38f5-47e5-97e9-10c70e189ce2)
 
-![Video Example](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/9f540d75-05f9-48e4-86f6-0676b8d80677)
-(Note: The final version has no logs to display)
 
 ## Upadtes and Patches
 
