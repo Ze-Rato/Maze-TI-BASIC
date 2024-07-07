@@ -1,9 +1,11 @@
 ## General Info
 
-Simple Maze Generator written in TI-BASIC
+Simple Maze Generator written in TI-BASIC.
 
 Pretty self explanatory, you are a red dot on a maze and your goal is to get to the green mark on it. 
 Use the arrow keys to move.
+
+NOTE: The max width size as of now is 20.
 
 ## Some Pictures
 
