@@ -1,9 +1,13 @@
 ## General Info
+
 Simple Maze Generator written in TI-BASIC
 
-## Some Pictures
-![20x20 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/58544ee1-38f5-47e5-97e9-10c70e189ce2)
+Pretty self explanatory, you are a red dot on a maze and your goal is to get to the green mark on it. 
+Use the arrow keys to move.
 
+## Some Pictures
+
+![20x20 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/58544ee1-38f5-47e5-97e9-10c70e189ce2)
 
 ## Upadtes and Patches
 
