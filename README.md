@@ -26,5 +26,5 @@ NOTES:
 
 
 ## To do
-* Fix the end point appearing too close to the start point
+* Fix the end point appearing too close to the start point (rebuild end point picker)
 * Make see solution feature
