@@ -25,3 +25,6 @@ NOTES:
 | 1.1 (Current) | 07/07/2024 | -Added Playability<br> -Fixed the display to be a square instead of a rectangle<br> -Optimized some code such as the tigger for the end of generation<br> -Changed 'player dot' size to be smaller on bigger mazes so it doesn't overlap with the walls |
 
 
+## To do
+* Fix the end point appearing too close to the start point
+* Make see solution feature
