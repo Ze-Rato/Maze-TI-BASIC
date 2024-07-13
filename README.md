@@ -22,9 +22,10 @@ NOTES:
 |    Version    | Date of Realease | Changes Description |
 | ------------- | ------------------- | -------- |
 | 1  | 06/07/2024 | -Launch  |
-| 1.1 (Current) | 07/07/2024 | -Added Playability<br> -Fixed the display to be a square instead of a rectangle<br> -Optimized some code such as the tigger for the end of generation<br> -Changed 'player dot' size to be smaller on bigger mazes so it doesn't overlap with the walls |
+| 1.1 | 07/07/2024 | -Added Playability<br> -Fixed the display to be a square instead of a rectangle<br> -Optimized some code such as the tigger for the end of generation<br> -Changed 'player dot' size to be smaller on bigger mazes so it doesn't overlap with the walls |
+| 1.2 (Current) | 13/07/2024 | -Restricted the choice of the winning point coordinates to avoid short games |
 
 
 ## To do
-* Fix the end point appearing too close to the start point (rebuild end point picker)
 * Make see solution feature
+* Make a feature allowing to reuse labyrinths (ex: regenerating the win point and start point on an already generated labyrinth)
