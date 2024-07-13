@@ -23,7 +23,7 @@ NOTES:
 | ------------- | ------------------- | -------- |
 | 1  | 06/07/2024 | -Launch  |
 | 1.1 | 07/07/2024 | -Added Playability<br> -Fixed the display to be a square instead of a rectangle<br> -Optimized some code on MAZEGEN<br> -Changed 'player dot' size to be smaller on bigger mazes so it doesn't overlap with the walls |
-| 1.2 (Current) | 13/07/2024 | -Restricted the choice of the winning point coordinates to avoid short games<br> -Removed some unecessary if statments on MAZEGEN |
+| 1.2 (Current) | 13/07/2024 | -Restricted the choice of the winning point coordinates to avoid short games<br> -Removed some unecessary if statments on MAZEGEN<br> -Some minor display changes such as the border color|
 
 
 ## To do
