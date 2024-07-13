@@ -28,4 +28,3 @@ NOTES:
 
 ## To do
 * Make see solution feature
-* Make a feature allowing to reuse labyrinths (ex: regenerating the win point and start point on an already generated labyrinth)
