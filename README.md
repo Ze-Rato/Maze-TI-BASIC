@@ -16,7 +16,7 @@ NOTES:
 
 ![20x20 Maze](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/58544ee1-38f5-47e5-97e9-10c70e189ce2)
 
-![Won](https://github.com/Ze-Rato/Maze-TI-BASIC/assets/132148561/4d91dc92-24e8-41a9-af1c-86236a73b5c6)
+![Won](https://github.com/user-attachments/assets/b7b89860-17c5-44a1-b7a1-243ac5f7f26d)
 
 
 ## Upadtes and Patches
