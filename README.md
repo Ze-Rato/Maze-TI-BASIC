@@ -31,3 +31,4 @@ NOTES:
 ## To do
 * Make see solution feature
 * On the exit option reset to default the graph settings and delete now unecessary data like the maze matrix and the HIST list
+(This might take a while since I'm currently focusing on other projects)
