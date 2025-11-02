@@ -5,7 +5,7 @@ Simple Maze Generator and game written in TI-BASIC.
 Pretty self explanatory, you are a red dot on a maze and your goal is to get to the green mark on it. 
 Use the arrow keys to move.
 
-Use *MAZEGEN* to generate a maze and only after the maze is genetared use *MAZEPLAY*. If you for some reason want to do a break mid maze you can abort the code execution with the 'ON' button. Then if you execute *MAZEPLAY* againn you continue from your wherever your position was before aborting execution.
+Use *MAZEGEN* to generate a maze and only after the maze is genetared use *MAZEPLAY*. If you for some reason want to do a break mid maze you can abort the code execution with the 'ON' button. Then if you execute *MAZEPLAY* again you continue from your wherever your position was before aborting execution.
 
 NOTES:
 * The max width size is 20.
